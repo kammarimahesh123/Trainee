@@ -5,3 +5,5 @@ Technologies used:
 1. .Net
 2. BI
 3. Blockchain
+
+4. UI technologies
